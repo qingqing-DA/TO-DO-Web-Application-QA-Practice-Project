@@ -41,7 +41,7 @@ The goal of this project is to practice:
 ## 🛠 Tools Used
 - Jira (Defect Tracking Simulation)
 - Excel (Test Case Management)
-- Chrome & Edge Browser
+- Chrome & Firefox Browser
 
 ---
 
