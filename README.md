@@ -32,8 +32,8 @@ The goal of this project is to practice:
 
 ## 📋 Test Artifacts
 - Test Plan Document
-- 40+ Test Cases
-- 10+ Bug Reports
+- 30+ Test Cases
+- 5+ Bug Reports
 - Test Summary Report
 
 ---
