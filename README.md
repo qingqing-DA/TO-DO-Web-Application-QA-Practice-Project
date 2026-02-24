@@ -56,10 +56,10 @@ The goal of this project is to practice:
 ---
 
 ## 📊 Test Summary
-- Total Test Cases: 42
-- Passed: 36
-- Failed: 6
-- Total Bugs Identified: 12
+- Total Test Cases: 30
+- Passed: 25
+- Failed: 5
+- Total Bugs Identified: 5
 
 ---
 
@@ -71,7 +71,3 @@ The goal of this project is to practice:
 
 ---
 
-## 👩‍💻 Author
-Your Name
-Master of Computer Science
-Aspiring QA Engineer
